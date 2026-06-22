@@ -6,6 +6,8 @@
 // @author       you
 // @match        *://www.dapenti.com/blog/more.asp*
 // @match        *://dapenti.com/blog/more.asp*
+// @match        *://www.dapenti.com/blog/readforwx.asp*
+// @match        *://dapenti.com/blog/readforwx.asp*
 // @grant        GM_setClipboard
 // @grant        GM_getValue
 // @grant        GM_setValue
